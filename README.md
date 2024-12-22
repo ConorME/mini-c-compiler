@@ -1,2 +1,2 @@
 # mini-c
-Mini-c compiler in Haskell. Just a short project to mess around with writing compilers in Haskell.
+Reproducing a mini-c compiler project that I completed in college, but this time Haskell instead of Java.
